@@ -84,11 +84,6 @@
     "arrowParens": "always",
     "parser": "typescript"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "jest": {
     "resolver": "browser-resolve"
   },
