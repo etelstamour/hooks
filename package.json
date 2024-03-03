@@ -1,7 +1,7 @@
 {
   "name": "hooks",
   "version": "0.1.0",
-  "description": "React hooks for RxJS",
+  "description": "React hooks",
   "module": "dist/esm/index.js",
   "main": "dist/cjs/index.js",
   "author": "",
